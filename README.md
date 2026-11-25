@@ -26,5 +26,6 @@ Jika ingin mencoba menjalankan atau mengedit file proyek ini di komputer sendiri
 
 1. Clone atau download repositori ini:
    ```bash
-   git clone [https://github.com/tgbudi12-coder/caribarang-id.git](https://github.com/tgbudi12-coder/caribarang-id.git)
+   git clone https://github.com/tgbudi12-coder/caribarang-id.git
+   
    
