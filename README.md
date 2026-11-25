@@ -20,12 +20,3 @@ Sering kali ketika ada barang yang tertinggal atau ditemukan di lingkungan sekit
 * **JavaScript** – Interaktivitas halaman web.
 * **MySQL** – Rancangan basis data (database) untuk menyimpan data laporan barang.
 * **GitHub Pages** – Hosting untuk menayangkan website secara online.
-
-## Cara Menjalankan Secara Lokal
-Jika ingin mencoba menjalankan atau mengedit file proyek ini di komputer sendiri:
-
-1. Clone atau download repositori ini:
-   ```bash
-   git clone https://github.com/tgbudi12-coder/caribarang-id.git
-   
-   
